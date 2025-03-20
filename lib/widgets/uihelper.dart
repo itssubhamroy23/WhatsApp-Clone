@@ -33,4 +33,19 @@ class Uihelper {
             color: color ?? Color(0xff5E5E5E),
             fontWeight: fontweight));
   }
+
+  static customContainer(TextEditingController controller) {
+    return Container(
+      height: 40,
+      width: 40,
+      decoration: BoxDecoration(
+        borderRadius: BorderRadius.circular(10),
+        color: Color(0XFFd9d9d9),
+      ),
+      child: TextField(
+        controller: controller,
+        decoration: InputDecoration(border: InputBorder.none),
+      ),
+    );
+  }
 }

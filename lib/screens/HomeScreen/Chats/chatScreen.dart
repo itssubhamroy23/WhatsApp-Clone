@@ -59,6 +59,46 @@ class Chatscreen extends StatelessWidget {
       "time": "3/20/25",
       "msg": "4",
     },
+    {
+      "userImage":
+          "https://images.unsplash.com/photo-1619895862022-09114b41f16f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fHVzZXIlMjBwcm9maWxlfGVufDB8fDB8fHww&w=1000&q=80",
+      "name": "Neha Kapoor",
+      "lastmsg": "Did you finish the project?",
+      "time": "3/19/25",
+      "msg": "6",
+    },
+    {
+      "userImage":
+          "https://images.unsplash.com/photo-1568602471122-7832951cc4c5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fHVzZXIlMjBwcm9maWxlfGVufDB8fDB8fHww&w=1000&q=80",
+      "name": "Rajesh Singh",
+      "lastmsg": "We need to discuss the budget",
+      "time": "3/18/25",
+      "msg": "3",
+    },
+    {
+      "userImage":
+          "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHVzZXIlMjBwcm9maWxlfGVufDB8fDB8fHww&w=1000&q=80",
+      "name": "Ananya Desai",
+      "lastmsg": "I'll share the photos from the trip",
+      "time": "3/17/25",
+      "msg": "8",
+    },
+    {
+      "userImage":
+          "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fHVzZXIlMjBwcm9maWxlfGVufDB8fDB8fHww&w=1000&q=80",
+      "name": "Karan Mehra",
+      "lastmsg": "Are you coming to the meeting?",
+      "time": "3/16/25",
+      "msg": "1",
+    },
+    {
+      "userImage":
+          "https://images.unsplash.com/photo-1544005313-94ddf0286df2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjl8fHVzZXIlMjBwcm9maWxlfGVufDB8fDB8fHww&w=1000&q=80",
+      "name": "Meera Joshi",
+      "lastmsg": "Happy birthday! Have a great day!",
+      "time": "3/15/25",
+      "msg": "2",
+    },
   ];
 
   @override
